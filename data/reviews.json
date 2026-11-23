@@ -1,0 +1,322 @@
+[
+  {
+    "id": "DEMO001",
+    "date": "2026-11-14 08:26:36",
+    "text": "The service was excellent and the staff were very helpful.",
+    "sentiment": "Positive",
+    "score": 2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO002",
+    "date": "2026-11-14 08:26:36",
+    "text": "I love this product. It works perfectly.",
+    "sentiment": "Positive",
+    "score": 1,
+    "confidence": 71
+  },
+  {
+    "id": "DEMO003",
+    "date": "2026-11-14 08:26:36",
+    "text": "Amazing quality and quick delivery.",
+    "sentiment": "Positive",
+    "score": 2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO004",
+    "date": "2026-11-15 08:26:36",
+    "text": "The app is easy to use and very useful.",
+    "sentiment": "Positive",
+    "score": 2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO005",
+    "date": "2026-11-15 08:26:36",
+    "text": "Beautiful design and a smooth experience.",
+    "sentiment": "Positive",
+    "score": 2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO006",
+    "date": "2026-11-15 08:26:36",
+    "text": "Fantastic customer support. I recommend it.",
+    "sentiment": "Positive",
+    "score": 2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO007",
+    "date": "2026-11-15 08:26:36",
+    "text": "The food was delicious and fresh.",
+    "sentiment": "Positive",
+    "score": 1,
+    "confidence": 71
+  },
+  {
+    "id": "DEMO008",
+    "date": "2026-11-16 08:26:36",
+    "text": "I am happy with my purchase.",
+    "sentiment": "Positive",
+    "score": 1,
+    "confidence": 71
+  },
+  {
+    "id": "DEMO009",
+    "date": "2026-11-16 08:26:36",
+    "text": "Great value for money and excellent quality.",
+    "sentiment": "Positive",
+    "score": 3,
+    "confidence": 95
+  },
+  {
+    "id": "DEMO010",
+    "date": "2026-11-16 08:26:36",
+    "text": "The experience was wonderful and comfortable.",
+    "sentiment": "Positive",
+    "score": 2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO011",
+    "date": "2026-11-16 08:26:36",
+    "text": "The delivery was late and the package was damaged.",
+    "sentiment": "Negative",
+    "score": -2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO012",
+    "date": "2026-11-17 08:26:36",
+    "text": "Very poor quality. I am disappointed.",
+    "sentiment": "Negative",
+    "score": -2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO013",
+    "date": "2026-11-17 08:26:36",
+    "text": "The app is confusing and difficult to use.",
+    "sentiment": "Negative",
+    "score": -2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO014",
+    "date": "2026-11-17 08:26:36",
+    "text": "Terrible service. The staff were rude.",
+    "sentiment": "Negative",
+    "score": -2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO015",
+    "date": "2026-11-17 08:26:36",
+    "text": "This product is broken and useless.",
+    "sentiment": "Negative",
+    "score": -2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO016",
+    "date": "2026-11-18 08:26:36",
+    "text": "The food was cold and tasted awful.",
+    "sentiment": "Negative",
+    "score": -1,
+    "confidence": 71
+  },
+  {
+    "id": "DEMO017",
+    "date": "2026-11-18 08:26:36",
+    "text": "A horrible experience. I would not recommend it.",
+    "sentiment": "Neutral",
+    "score": 0,
+    "confidence": 65
+  },
+  {
+    "id": "DEMO018",
+    "date": "2026-11-18 08:26:36",
+    "text": "The process was slow and annoying.",
+    "sentiment": "Negative",
+    "score": -2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO019",
+    "date": "2026-11-18 08:26:36",
+    "text": "I hate the new update. It caused problems.",
+    "sentiment": "Negative",
+    "score": -1,
+    "confidence": 71
+  },
+  {
+    "id": "DEMO020",
+    "date": "2026-11-19 08:26:36",
+    "text": "The product was a waste of money.",
+    "sentiment": "Negative",
+    "score": -1,
+    "confidence": 71
+  },
+  {
+    "id": "DEMO021",
+    "date": "2026-11-19 08:26:36",
+    "text": "The package arrived today.",
+    "sentiment": "Neutral",
+    "score": 0,
+    "confidence": 65
+  },
+  {
+    "id": "DEMO022",
+    "date": "2026-11-19 08:26:36",
+    "text": "I visited the store in the afternoon.",
+    "sentiment": "Neutral",
+    "score": 0,
+    "confidence": 65
+  },
+  {
+    "id": "DEMO023",
+    "date": "2026-11-19 08:26:36",
+    "text": "The product is available in two colours.",
+    "sentiment": "Neutral",
+    "score": 0,
+    "confidence": 65
+  },
+  {
+    "id": "DEMO024",
+    "date": "2026-11-20 08:26:36",
+    "text": "The meeting starts at ten in the morning.",
+    "sentiment": "Neutral",
+    "score": 0,
+    "confidence": 65
+  },
+  {
+    "id": "DEMO025",
+    "date": "2026-11-20 08:26:36",
+    "text": "I received the order yesterday.",
+    "sentiment": "Neutral",
+    "score": 0,
+    "confidence": 65
+  },
+  {
+    "id": "DEMO026",
+    "date": "2026-11-20 08:26:36",
+    "text": "The book has twelve chapters.",
+    "sentiment": "Neutral",
+    "score": 0,
+    "confidence": 65
+  },
+  {
+    "id": "DEMO027",
+    "date": "2026-11-20 08:26:36",
+    "text": "The website contains a contact page.",
+    "sentiment": "Neutral",
+    "score": 0,
+    "confidence": 65
+  },
+  {
+    "id": "DEMO028",
+    "date": "2026-11-21 08:26:36",
+    "text": "The parcel includes a charger and a cable.",
+    "sentiment": "Neutral",
+    "score": 0,
+    "confidence": 65
+  },
+  {
+    "id": "DEMO029",
+    "date": "2026-11-21 08:26:36",
+    "text": "I used the service for the first time.",
+    "sentiment": "Neutral",
+    "score": 0,
+    "confidence": 65
+  },
+  {
+    "id": "DEMO030",
+    "date": "2026-11-21 08:26:36",
+    "text": "The shop is located near the bus stop.",
+    "sentiment": "Neutral",
+    "score": 0,
+    "confidence": 65
+  },
+  {
+    "id": "DEMO031",
+    "date": "2026-11-21 08:26:36",
+    "text": "The staff were friendly and the service was quick.",
+    "sentiment": "Positive",
+    "score": 2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO032",
+    "date": "2026-11-22 08:26:36",
+    "text": "The screen is broken and the repair was disappointing.",
+    "sentiment": "Negative",
+    "score": -2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO033",
+    "date": "2026-11-22 08:26:36",
+    "text": "The design is beautiful and the controls are easy.",
+    "sentiment": "Positive",
+    "score": 2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO034",
+    "date": "2026-11-22 08:26:36",
+    "text": "The response was late and the explanation was confusing.",
+    "sentiment": "Negative",
+    "score": -2,
+    "confidence": 87
+  },
+  {
+    "id": "DEMO035",
+    "date": "2026-11-22 08:26:36",
+    "text": "The order contains three items.",
+    "sentiment": "Neutral",
+    "score": 0,
+    "confidence": 65
+  },
+  {
+    "id": "DEMO036",
+    "date": "2026-11-23 08:26:36",
+    "text": "Excellent experience, helpful team and fast support.",
+    "sentiment": "Positive",
+    "score": 3,
+    "confidence": 95
+  },
+  {
+    "id": "DEMO037",
+    "date": "2026-11-23 08:26:36",
+    "text": "The quality is bad and the product stopped working.",
+    "sentiment": "Negative",
+    "score": -1,
+    "confidence": 71
+  },
+  {
+    "id": "DEMO038",
+    "date": "2026-11-23 08:26:36",
+    "text": "The event is scheduled for Friday evening.",
+    "sentiment": "Neutral",
+    "score": 0,
+    "confidence": 65
+  },
+  {
+    "id": "DEMO039",
+    "date": "2026-11-23 08:26:36",
+    "text": "I enjoyed the service and would recommend it.",
+    "sentiment": "Positive",
+    "score": 1,
+    "confidence": 71
+  },
+  {
+    "id": "DEMO040",
+    "date": "2026-11-24 08:26:36",
+    "text": "The waiting time was long and the staff were rude.",
+    "sentiment": "Negative",
+    "score": -1,
+    "confidence": 71
+  }
+]

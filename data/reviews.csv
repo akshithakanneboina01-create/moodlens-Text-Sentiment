@@ -1,0 +1,41 @@
+id,date,text,sentiment,score,confidence
+DEMO001,2026-11-14 08:26:36,The service was excellent and the staff were very helpful.,Positive,2,87
+DEMO002,2026-11-14 08:26:36,I love this product. It works perfectly.,Positive,1,71
+DEMO003,2026-11-14 08:26:36,Amazing quality and quick delivery.,Positive,2,87
+DEMO004,2026-11-15 08:26:36,The app is easy to use and very useful.,Positive,2,87
+DEMO005,2026-11-15 08:26:36,Beautiful design and a smooth experience.,Positive,2,87
+DEMO006,2026-11-15 08:26:36,Fantastic customer support. I recommend it.,Positive,2,87
+DEMO007,2026-11-15 08:26:36,The food was delicious and fresh.,Positive,1,71
+DEMO008,2026-11-16 08:26:36,I am happy with my purchase.,Positive,1,71
+DEMO009,2026-11-16 08:26:36,Great value for money and excellent quality.,Positive,3,95
+DEMO010,2026-11-16 08:26:36,The experience was wonderful and comfortable.,Positive,2,87
+DEMO011,2026-11-16 08:26:36,The delivery was late and the package was damaged.,Negative,-2,87
+DEMO012,2026-11-17 08:26:36,Very poor quality. I am disappointed.,Negative,-2,87
+DEMO013,2026-11-17 08:26:36,The app is confusing and difficult to use.,Negative,-2,87
+DEMO014,2026-11-17 08:26:36,Terrible service. The staff were rude.,Negative,-2,87
+DEMO015,2026-11-17 08:26:36,This product is broken and useless.,Negative,-2,87
+DEMO016,2026-11-18 08:26:36,The food was cold and tasted awful.,Negative,-1,71
+DEMO017,2026-11-18 08:26:36,A horrible experience. I would not recommend it.,Neutral,0,65
+DEMO018,2026-11-18 08:26:36,The process was slow and annoying.,Negative,-2,87
+DEMO019,2026-11-18 08:26:36,I hate the new update. It caused problems.,Negative,-1,71
+DEMO020,2026-11-19 08:26:36,The product was a waste of money.,Negative,-1,71
+DEMO021,2026-11-19 08:26:36,The package arrived today.,Neutral,0,65
+DEMO022,2026-11-19 08:26:36,I visited the store in the afternoon.,Neutral,0,65
+DEMO023,2026-11-19 08:26:36,The product is available in two colours.,Neutral,0,65
+DEMO024,2026-11-20 08:26:36,The meeting starts at ten in the morning.,Neutral,0,65
+DEMO025,2026-11-20 08:26:36,I received the order yesterday.,Neutral,0,65
+DEMO026,2026-11-20 08:26:36,The book has twelve chapters.,Neutral,0,65
+DEMO027,2026-11-20 08:26:36,The website contains a contact page.,Neutral,0,65
+DEMO028,2026-11-21 08:26:36,The parcel includes a charger and a cable.,Neutral,0,65
+DEMO029,2026-11-21 08:26:36,I used the service for the first time.,Neutral,0,65
+DEMO030,2026-11-21 08:26:36,The shop is located near the bus stop.,Neutral,0,65
+DEMO031,2026-11-21 08:26:36,The staff were friendly and the service was quick.,Positive,2,87
+DEMO032,2026-11-22 08:26:36,The screen is broken and the repair was disappointing.,Negative,-2,87
+DEMO033,2026-11-22 08:26:36,The design is beautiful and the controls are easy.,Positive,2,87
+DEMO034,2026-11-22 08:26:36,The response was late and the explanation was confusing.,Negative,-2,87
+DEMO035,2026-11-22 08:26:36,The order contains three items.,Neutral,0,65
+DEMO036,2026-11-23 08:26:36,"Excellent experience, helpful team and fast support.",Positive,3,95
+DEMO037,2026-11-23 08:26:36,The quality is bad and the product stopped working.,Negative,-1,71
+DEMO038,2026-11-23 08:26:36,The event is scheduled for Friday evening.,Neutral,0,65
+DEMO039,2026-11-23 08:26:36,I enjoyed the service and would recommend it.,Positive,1,71
+DEMO040,2026-11-24 08:26:36,The waiting time was long and the staff were rude.,Negative,-1,71
